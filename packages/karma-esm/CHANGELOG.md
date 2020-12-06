@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/open-wc/open-wc/compare/@open-wc/karma-esm@3.0.9...@open-wc/karma-esm@4.0.0) (2020-12-06)
+
+### BREAKING CHANGES
+
+Updated to es-dev-server v2, which uses @rollup/plugin-node-resolve v11
+
+
+
+
+
 ## [3.0.9](https://github.com/open-wc/open-wc/compare/@open-wc/karma-esm@3.0.8...@open-wc/karma-esm@3.0.9) (2020-10-11)
 
 **Note:** Version bump only for package @open-wc/karma-esm
