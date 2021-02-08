@@ -28,7 +28,7 @@
     "compatibility"
   ],
   "dependencies": {
-    "@open-wc/karma-esm": "^3.0.9",
+    "@open-wc/karma-esm": "^4.0.0",
     "@types/karma": "^5.0.0",
     "@types/karma-coverage-istanbul-reporter": "^2.1.0",
     "@types/karma-mocha": "^1.3.0",
